@@ -1,4 +1,8 @@
 {
-  "Date": "September 30, 2023",
- "1": { "Update": "UI improvements, bug fixes, etc.", "UpdateRating": "VeryGood",  "Transparency": "1" , "AttachedImages": [{ "AssetId": "rbxassetid://14108571082", "Size": "Small" }]}
+  "Date": "August 11, 2024",
+ "1": { "Update": "Added more areas to the happy home.", "UpdateRating": "VeryGood",  "Transparency": "1"},
+ "1": { "Update": "Fixed an issue where the feedback feature isn't working.", "UpdateRating": "VeryGood",  "Transparency": "1"},
+ "1": { "Update": "Added a working TV to happy home.", "UpdateRating": "VeryGood",  "Transparency": "1"},
+ "2": { "Update": "September 30, 2023", "UpdateRating": "UpdateDate",  "Transparency": "0"},
+ "2": { "Update": "UI improvements, bug fixes, etc.", "UpdateRating": "VeryGood",  "Transparency": "1" , "AttachedImages": [{ "AssetId": "rbxassetid://14108571082", "Size": "Small" }]}
 }
